@@ -1,2 +1,3 @@
 I am using the Comand line to wright this
 The goal of this lesson is to learn the basic of the git workflow
+need a change to see if i can use the commit template 
